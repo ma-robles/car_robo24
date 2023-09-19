@@ -7,7 +7,7 @@ from time import sleep_ms
 #alto
 
 #derecha
-def der (A1, A2, B1, B2, t)
+def derecha (A1, A2, B1, B2, t)
 	A1.on()
 	B1.off()
 	A2.off()
