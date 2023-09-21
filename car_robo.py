@@ -29,7 +29,7 @@ def izquierda (A1, A2, B1, B2, t):
     B2.on()
     sleep_ms(t)
 #izquierda
-def derecho (A1, A2, B1, B2, t):
+def derecha (A1, A2, B1, B2, t):
     A1.off()
     A2.on()
     B1.on()
